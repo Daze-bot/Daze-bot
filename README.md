@@ -2,7 +2,7 @@
 - 👀 I’m interested in starting my new career as a programmer and eventual Software Engineer!
 - 🌱 I’m currently learning through The Odin Project and very excited to start this journey
 - 💞️ I’m looking to collaborate on anything that can help me to advance my knowledge of all things programming
-- 📫 How to reach me - I still need to establish the best way to do so!
+- 📫 How to reach me - Find me on twitter @Code4Daze
 
 <!---
 Daze-bot/Daze-bot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
