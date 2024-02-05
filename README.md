@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jevon from Philadelphia, PA
+<h1>👋 Hi, I’m Jevon!</h1>
 - 👀 I'm looking to switch careers from Finance to Software Engineering
 - 🌱 I have completed many front-end, back-end, and full-stack projects while learning via The Odin Project
 - 💞️ I’m looking to collaborate on anything that can help me to advance my knowledge of all things programming
